@@ -1,4 +1,4 @@
-#  Original Author [KetchupBomb]https://github.com/KetchupBomb
+#  Original Author [KetchupBomb](https://github.com/KetchupBomb)
 
 # FFXIV API 
 This script alert you when you can create a character on a specific world
